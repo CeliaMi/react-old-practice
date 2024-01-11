@@ -1,0 +1,38 @@
+html{
+  box-sizing: border-box;
+  font-size: 16px;
+  font-family: Helvetica, sans-serif;
+  display: flex;
+  align-items: center;
+  margin:20px;
+}
+
+input{
+  border: radius 5px;
+  margin: 5px;
+  height: 30px;
+
+}
+
+form{
+  margin: 2rem;
+}
+
+table{
+  border-spacing: 0;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td{
+  text-align: left;
+  padding: 0.5 rem;
+}
+
+button{
+  width: 80px;
+  height: 30px;
+  margin:2px;
+  border-radius: 5px;
+}

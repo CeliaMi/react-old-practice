@@ -1,0 +1,34 @@
+{
+  "biodiversidad": [
+    {
+      "id": 1,
+      "name": "Rosa",
+      "especie": "Zorro"
+    },
+    {
+      "id": 2,
+      "name": "Mariano",
+      "especie": "ciervo"
+    },
+    {
+      "id": 3,
+      "name": "Juana",
+      "especie": "lagartija "
+    },
+    {
+      "id": 4,
+      "name": "Benito",
+      "especie": "murciélago"
+    },
+    {
+      "id": 5,
+      "name": "Violetas",
+      "especie": "Jabalí"
+    },
+    {
+      "name": "Jorge",
+      "especie": "serpiente",
+      "id": 1678293292656
+    }
+  ]
+}
